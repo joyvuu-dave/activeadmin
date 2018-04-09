@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'inherited_resources', github: 'joyvuu-dave/inherited_resources'
+
 # Optional dependencies
 gem 'cancan'
 gem 'pundit'
